@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!-- Estatísticas do GitHub -->
+<!-- Cartões de Estatísticas com API alternativa estável -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguelisak&show_icons=true&theme=radial&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelisak&layout=compact&theme=radial" />
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=Miguelisak&show_icons=true&theme=radial&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelisak&theme=radial" />
 </div>
 
 <br />
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/miguelisak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="miguelisak2007@gmail.com" target="_blank">
+  <a href="mailto:miguelisak2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

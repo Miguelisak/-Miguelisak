@@ -7,6 +7,7 @@
 - 💡 Foco em aprendizado contínuo e no desenvolvimento de soluções eficientes.
 - 🚀 Praticando e aprimorando habilidades em **C++**, **Python**, **Java** e **HTML/CSS**.
 - 🎯 Buscando evolução constante em programação, estrutura de dados e lógica.
+- Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
 <br />
 

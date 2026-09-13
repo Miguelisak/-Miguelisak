@@ -6,7 +6,7 @@
 
 <!-- Estatísticas do GitHub -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguelisak&show_icons=true&theme=radial&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelisak&layout=compact&theme=radial" />
 </div>
 

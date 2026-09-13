@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou o Miguel Isak! 👋</h1>
 
-Estudante de Desenvolvimento de Software Multiplataforma na Fatec Osasco.
-Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+- Estudante de Desenvolvimento de Software Multiplataforma na Fatec Osasco.
+- Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
 <!-- Seção Sobre Mim Organizada -->
 <h3 align="left">🧑‍💻 Sobre Mim</h3>
@@ -27,14 +27,6 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-<br />
-
-<!-- Estatísticas Alinhadas à Esquerda -->
-<h3 align="left">📊 Estatísticas</h3>
-<div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelisak&theme=radial" />
-</div>
 
 <br />
 

@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!-- Cartões de Estatísticas com API alternativa estável -->
+<!-- Estatísticas do GitHub com servidor alternativo estável -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=Miguelisak&show_icons=true&theme=radial&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelisak&theme=radial" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Miguelisak&show_icons=true&theme=radial&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelisak&theme=radial" />
 </div>
 
 <br />

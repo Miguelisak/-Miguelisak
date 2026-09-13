@@ -1,15 +1,14 @@
 <h1 align="left">Olá, eu sou o Miguel Isak! 👋</h1>
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Osasco**.
-    Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+Estudante de Desenvolvimento de Software Multiplataforma. 
+Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
 <!-- Seção Sobre Mim Organizada -->
 <h3 align="left">🧑‍💻 Sobre Mim</h3>
 
-- 💡 Foco em aprendizado contínuo e no desenvolvimento de soluções eficientes.
-- 🚀 Praticando e aprimorando habilidades em **C++**, **Python**, **Java** e **HTML/CSS**.
-- 🎯 Buscando evolução constante em programação, estrutura de dados e lógica.
-
+- 🎓 Cursando Desenvolvimento de Software Multiplataforma.
+- 💻 Atualmente focado em aprimorar meus conhecimentos em C e Java.
+- 🛠️ Experiência prática com HTML, CSS, Java, C e Python.
 
 <br />
 

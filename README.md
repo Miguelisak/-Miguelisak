@@ -12,7 +12,6 @@
 - 🎓 Cursando Desenvolvimento de Software Multiplataforma.
 - 💻 Atualmente focado em aprimorar meus conhecimentos em C e Java.
 - 🛠️ Experiência prática com HTML, CSS, Java, C e Python.
-
 <br />
 <!-- Linguagens e Ferramentas Alinhadas à Esquerda -->
 <h3 align="left">🛠️ Linguagens e Tecnologias</h3>

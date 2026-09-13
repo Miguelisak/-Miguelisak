@@ -3,7 +3,7 @@
 - Estudante de Desenvolvimento de Software Multiplataforma na Fatec Osasco.
 - Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
   <br />
-  [![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22&color=58a6ff)(https://miguelisak.github.io/Portfolio/)
+  [![Portfólio](https://img.shields.io/badge/🌐_Acessar_Meu_Portfólio-238636?style=for-the-badge&logoColor=white)](https://miguelisak.github.io/Portfolio/)
 
 <!-- Seção Sobre Mim Organizada -->
 <h3 align="left">🧑‍💻 Sobre Mim</h3>

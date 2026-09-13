@@ -17,7 +17,6 @@
 
 <!-- Linguagens e Ferramentas Alinhadas à Esquerda -->
 <h3 align="left">🛠️ Linguagens e Tecnologias</h3>
-
 <p align="left">
   <b>Linguagens:</b><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
